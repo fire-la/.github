@@ -4,7 +4,7 @@
 
 Open-source (AGPL-3.0) ecosystem for privacy-first personal finance:
 
-- **[firela-app](https://github.com/fire-la/firela-app)** — mobile lifetime-ledger client. Multi-region statement parsers (10 registered: CN / HK / EU) and an on-device PII sanitizer (11 detection types, IBAN across 62 country formats). In active development — not yet on app stores.
+- **[firela-app](https://github.com/fire-la/firela-app)** — mobile lifetime-ledger client. Community-pipeline statement parsers (CN / HK / EU coverage, growing by contribution) and an on-device PII sanitizer (11 detection types, IBAN across 62 country formats). In active development — not yet on app stores.
 - **[firela-bot](https://github.com/fire-la/firela-bot)** — billclaw, the self-hostable collector, plus the pa advisor shell. Deployable today on Cloudflare Workers' free tier.
 
 ## Why plain text
